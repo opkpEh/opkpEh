@@ -1,5 +1,6 @@
 # 💫 About Me:                                                         
-Intrested in game dev with C, learing backend with flask and django. Intrested in making my own raytracing engine.Intrested in game dev with C, learing backend with flask and django. Intrested in making my own raytracing engine.
+Taking a turn towards cybersecurity, still finding my footing. Really interested in C, and low-level learning. Taking a hiatus from webdev.
+:)
                                                                    
 <div align="center">  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
